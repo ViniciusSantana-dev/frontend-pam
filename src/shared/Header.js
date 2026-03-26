@@ -15,7 +15,7 @@ const createAndInjectionMenu = () => {
 
     menu.innerHTML = `
         <ion-header>
-            <ion-toolbar color='secondary'>
+            <ion-toolbar color='secundary'>
                 <ion-title>Menu</ion-title>
             </ion-toolbar>
         </ion-header>

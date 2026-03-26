@@ -68,7 +68,7 @@ class LoginPage extends HTMLElement {
             toast.duration = 2000;
             toast.position = 'bottom';
 
-            document.body.appendChild(toast);
+            document.body.appendChild(toast); 
             return toast.present();
         }
     }
